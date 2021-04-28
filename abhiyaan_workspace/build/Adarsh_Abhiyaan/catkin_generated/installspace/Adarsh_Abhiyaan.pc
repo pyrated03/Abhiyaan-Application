@@ -1,0 +1,8 @@
+prefix=/home/adarsh/abhiyaan_workspace/install
+
+Name: Adarsh_Abhiyaan
+Description: Description of Adarsh_Abhiyaan
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
